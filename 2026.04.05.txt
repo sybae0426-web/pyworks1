@@ -2,3 +2,37 @@
 파이썬: date.py
 
 *파일 생성 -노트북 생성
+
+
+명령 프롬프트 (cmd) 
+
+1. 먼저 타이핑 
+
+cd c:/
+
+2. 그 다음 선택한 파일위치
+cd 2026.03 python
+
+3. 깃허브에 있는 내 레파토리 참고해서 'git init' 작성
+c:\2026.03 python>git init
+
+4. 그 다음에
+git add .
+
+5. 'git status'를 작성하고 나면 초록 글들이 나타남
+git status
+
+6. git commit -m 은 확실히 쓰고 따옴표 안에는 파일이름 자유 "소스파일"  => 흰색 글씨들이 나옴
+git commit -m "소스파일"
+
+7. git branch 치고 나면 master 초록색이 나옴
+*main으로 나오면 좋음
+*master로 나오면 => git branch -M main 으로 재작성
+
+8. 그 다음줄 복붙
+git remote add origin https://github.com/sybae0426-web/pyworks1.git
+
+9. 그 다음줄 복붙
+git push -u origin main
+
+*403 에러: 사전에 '깃'이 있기 때문에 
