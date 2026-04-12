@@ -36,3 +36,59 @@ git remote add origin https://github.com/sybae0426-web/pyworks1.git
 git push -u origin main
 
 *403 에러: 사전에 '깃'이 있기 때문에 
+
+
+
+git status
+
+자격증명관리자
+Windosw 자격 증명
+- github 계정 삭제
+
+계정 설정 명령어
+git config --global user.name "깃허브아이디"
+git config --global user.emil "깃허브이메일"
+
+c:\python 2026>git config --global user.name "sybae0426-web"
+
+c:\python 2026>git config --global user.emil "sybae0426@gmail.com"
+
+git config user.name
+git config user.email
+
+git push -u origin main
+
+
+===================================
+<아나콘다 => 쥬피터 노트북>
+데이터 정보 파악 = info() 함수 
+
+object 문자
+int      숫자
+
+
+===================================
+세팅: 세팅스 에디터(맨 밑에)
+
+클릭: Enable autocompletion
+클릭: Line Numbers
+폰트 사이즈
+
+===================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
