@@ -1,3 +1,29 @@
 데이터 분석
 1. Jupyter Notebok(아나콘다 플랫폼 설치)
+혹시 안될경우, 브라우저:  http://localhost:8888/tree?
+
 2. 구글 코렙(구글 드라이브) - 머신러닝
+
+
+머신러닝 프로세스
+데이터준비 - 데이터 전처리 - 데이터 분할(훈련/테스트) - 모델 학습 및 예측 - 성능 평가 - 특정 데이터 예측
+
+머신러닝 및 딥러닝할땐는 통계 공부 
+- 분산, 표준편차
+
+=========
+<파일 우클릭 git bash here>
+git 업로드
+- 새로운 리포지터리 (저장소) 생성
+- 첫번째 업로드 명령
+git init
+git add .
+git commit -m "python 2026"
+git branch -M main
+git remote add origin 리포지터리 주소
+git push -u origin main
+
+- 두번째 부터
+git add .
+git commit -m "python 2026"
+git push -u origin main
